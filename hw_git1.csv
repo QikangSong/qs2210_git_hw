@@ -1,5 +1,9 @@
 1,2,34,56,,7,9
 2,3,4,5,12,56,22
 1,2,3
+<<<<<<< HEAD
 different,line,for,question,5
 by,master
+=======
+new,line,for,question,4
+>>>>>>> feature1
